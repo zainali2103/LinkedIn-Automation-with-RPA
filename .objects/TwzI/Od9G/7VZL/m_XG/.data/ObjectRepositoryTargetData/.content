@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0Ds9cOo8EEGTUPi6yOUQHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="11, 186, 1920, 845" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl name='&amp;quot;Technical Recruiters&amp;quot; | Search | LinkedIn - Microsoft Edge' role='pane' /&gt;&lt;ctrl idx='97' role='pane' /&gt;" FuzzySelectorArgument="&lt;ctrl name='&amp;quot;Technical Recruiters&amp;quot; | Search | LinkedIn - Microsoft Edge' role='pane' /&gt;&lt;ctrl automationid='' role='pane' check:fulltext='0 notifications total Skip to search Skip to main content Keyboard shortcuts Close jump menu' /&gt;" Guid="857c69b8-1a32-43f9-ba62-8f775066398c" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='&amp;quot;Technical Recruiters&amp;quot; | Search | LinkedIn - Profile 1 - Microso*' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CvElementArea="667, 132, 107, 42" CvTextArea="39, 141, 710, 20" CvTextArgument="&quot;UiPath Browser Automation 24.10&quot; started debugging this browser Cancel" CvType="Button" DesignTimeRectangle="17, 123, 1907, 60" FullSelectorArgument="&lt;ctrl name='&amp;quot;Technical Recruiters&amp;quot; | Search | LinkedIn - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Infobar Container' role='grouping' /&gt;&lt;ctrl name='Infobar' role='dialog' /&gt;" FuzzySelectorArgument="&lt;ctrl name='&amp;quot;Technical Recruiters&amp;quot; | Search | LinkedIn - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='Infobar Container' role='grouping' /&gt;&lt;ctrl name='Infobar' role='dialog' automationid='' check:text='&amp;quot;UiPath Browser Automation 24.10&amp;quot; started debugging this browser' /&gt;" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="75ee9ebe7f2328ef1d12a61ec7302c51.png" xmlns="">0DkPGBzdln0m_s_QVWyam2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

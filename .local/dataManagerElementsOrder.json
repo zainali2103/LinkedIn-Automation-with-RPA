@@ -1,0 +1,31 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "path&Sequence_2",
+        "tech_rec&Sequence_2",
+        "city&Sequence_2",
+        "str&Sequence_2",
+        "str_2&Sequence_2",
+        "status&Sequence_2",
+        "RequestCounter&Sequence_2",
+        "ConnectButtonExist&Sequence_2",
+        "NextButtonExist&Sequence_2",
+        "PageIndex&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

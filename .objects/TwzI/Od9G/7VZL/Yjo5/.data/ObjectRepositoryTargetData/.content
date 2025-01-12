@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fh6Et2JxrU22dnKGbzlcPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.linkedin.com/search/results/all/?keywords=Technical%20Recruiters&amp;origin=GLOBAL_SEARCH_HEADER&amp;sid=97g" CvElementArea="110, 285, 114, 53" CvTextArea="131, 302, 75, 27" CvTextArgument="People" CvType="Button" DesignTimeRectangle="114, 287, 109, 48" DesignTimeScaleFactor="1.5" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='search-reusables__filters-bar' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='search-reusables__filters-bar' tag='BUTTON' type='button' class='artdeco-pill artdeco-pill--slate artdeco-pill--choice artdeco-pill--2 search-reusables__filter-pill-button&amp;#xA;       search-reusables__filter-pill-button' aaname='            People        ' check:innerText='People' /&gt;" Guid="414be41b-3f7d-4b35-9beb-026aae272a30" ScopeSelectorArgument="&lt;html app='msedge.exe' title='&amp;quot;Technical Recruiters&amp;quot; | Search | LinkedIn' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="50282e891542e6aeceadcfb95c561d96.png" xmlns="">09OCjWcmdlESzrhRs3UA4nQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

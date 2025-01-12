@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'People'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Yjo5EXbdTk2vC_ieP18w4w",
+  "Reference": "KbbFjdWR0k6ol6hB0zG0pA/Yjo5EXbdTk2vC_ieP18w4w",
+  "ParentRef": "KbbFjdWR0k6ol6hB0zG0pA/7VZL2wreokGLUrhnDOVwlA",
+  "Created": "2024-12-20T16:37:28.2290879Z",
+  "Updated": "2024-12-20T16:37:28.2290879Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

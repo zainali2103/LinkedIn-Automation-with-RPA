@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mouse Scroll 'UiPath Browser'",
+  "Type": "Element",
+  "Id": "m_XGu6xpTEWl2cy-535Xuw",
+  "Reference": "KbbFjdWR0k6ol6hB0zG0pA/m_XGu6xpTEWl2cy-535Xuw",
+  "ParentRef": "KbbFjdWR0k6ol6hB0zG0pA/7VZL2wreokGLUrhnDOVwlA",
+  "Created": "2024-12-20T16:47:56.3620163Z",
+  "Updated": "2024-12-20T16:47:56.3620163Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.2.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
