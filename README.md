@@ -23,21 +23,21 @@ The LinkedIn Automation Bot is designed to:
 ---
 
 ## Prerequisites
-UiPath Studio installed on your system.
-A LinkedIn account with active login credentials.
-Internet connection to access LinkedIn.
+- **UiPath Studio installed on your system.
+- **A LinkedIn account with active login credentials.
+- **Internet connection to access LinkedIn.
 
 ---
 ## Limitations
-The bot skips profiles with the "Message" or "Follow" button instead of "Connect."
-The workflow assumes a stable internet connection and active LinkedIn account access.
-Compliance with LinkedIn's terms of service is recommended when using this automation.
+- **The bot skips profiles with the "Message" or "Follow" button instead of "Connect."
+- **The workflow assumes a stable internet connection and active LinkedIn account access.
+- **Compliance with LinkedIn's terms of service is recommended when using this automation.
 
 ---
 ## Future Improvements
-Add a feature to send personalized connection messages.
-Include error handling for scenarios like account lockouts or LinkedIn rate limits.
-Enhance the workflow to handle multiple locations or job titles dynamically.
+- **Add a feature to send personalized connection messages.
+- **Include error handling for scenarios like account lockouts or LinkedIn rate limits.
+- **Enhance the workflow to handle multiple locations or job titles dynamically.
 
 ---
 
